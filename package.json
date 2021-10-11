@@ -1,11 +1,18 @@
 {
   "name": "empty_object",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "npm publish test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": ["is-empty",
+  "empty object",
+"empty array",
+"empty string",
+"deep empty check",
+"check empty"
+]
 }
