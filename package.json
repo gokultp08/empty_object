@@ -3,16 +3,11 @@
   "version": "1.1.0",
   "description": "npm publish test",
   "main": "index.js",
+  "keywords": ["is-empty", "empty object", "empty array", "empty string", "deep empty check", "check empty"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "keywords": ["is-empty",
-  "empty object",
-"empty array",
-"empty string",
-"deep empty check",
-"check empty"
-]
+
 }
