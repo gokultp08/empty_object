@@ -7,6 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "gokul",
+  "license": "MIT",
+  "repository": {"url": "https://github.com/gokultp08/empty_object.git"}
 }
